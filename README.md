@@ -10,10 +10,10 @@ My personal Portfolio
 
 
 Changes made from original
-•	•	Tried to make my page functional and deployable. 
-•	I use the spiderman theme for my Portfolio.
-•	Use Nav Bars on each page
-•	Created responsive layout and images
+•Tried to make my page functional and deployable. 
+•I use the spiderman theme for my Portfolio.
+•Use Nav Bars on each page
+•Created responsive layout and images
 
 
 	
